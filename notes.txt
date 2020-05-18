@@ -1,0 +1,8 @@
+
+# parameters in order to running exercises 5 and 6 ENVs
+====================================
+FLASK_SECRET = 'inser a secret here'
+
+PHOTOS_BUCKET = daftpunkbucket
+====================================
+
